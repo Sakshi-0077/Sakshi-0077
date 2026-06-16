@@ -14,7 +14,7 @@
 
 ## Featured Projects
 - AI Disruption Index
-- Sarthii Career Guidance Platform
+- Sarthii Website for NGO
 - KaamSetu Android App
 
 ## Currently Learning
