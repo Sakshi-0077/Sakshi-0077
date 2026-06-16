@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sakshi Shah 👋
 
-<!--
-**Sakshi-0077/Sakshi-0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+🤖 AI | Data Science | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Android Development
+- Web Development
+
+## Featured Projects
+- AI Disruption Index
+- Sarthii Career Guidance Platform
+- KaamSetu Android App
+
+## Currently Learning
+- Data Science
+- Machine Learning
+- AI Engineering
+
+## Connect With Me
+LinkedIn: [https://www.linkedin.com/in/sakshi-shah-95986b368]
